@@ -6,24 +6,24 @@ Applied Math for Bioimaging
  <tr>
     <td><img src="cervicalCells.png" width="400"></td>
     <td>
-     <b>
+     <p>
       - use-cases explored in partnerships between Berkeley Lab, UC Berkeley, private sponsors and foreign institutions
-     <b>
+     <p>
      - bioimaging and algorithms:
-     <b> 
+     <p> 
         - cell
-     <b> 
+     <p> 
         - tissue
-     <b> 
+     <p> 
         - blood
-     <b> 
+     <p> 
         - brain
-     <b> 
+     <p> 
         - eye
-     <b> 
+     <p> 
         - heart
-     <b> 
+     <p> 
         - cervix
-      </b></td>
+      </td>
  </tr>
 </table>
