@@ -5,7 +5,7 @@ Applied Math for Bioimaging
 <div style="float: right">
 <img src="cervicalCells.png" width="400">
 </div>
-<div style="float: left">
+
 - use-cases explored in partnerships between Berkeley Lab, UC Berkeley, private sponsors and foreign institutions
 - bioimaging and algorithms:
   - cell
@@ -15,4 +15,14 @@ Applied Math for Bioimaging
   - eye
   - heart
   - cervix
-</div>
+
+<table border="0">
+ <tr>
+    <td><img src="cervicalCells.png" width="400"></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
