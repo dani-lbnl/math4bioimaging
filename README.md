@@ -4,26 +4,18 @@
 Applied Math for Bioimaging
 <table border="0">
  <tr>
-    <td><img src="cervicalCells.png" width="400"></td>
+    <td><img src="cervicalCells.png" width="400">
+     <p> Cell Segmentation from Digitized Smear
+    </td>
     <td>
      <p>
       - use-cases explored in partnerships between Berkeley Lab, UC Berkeley, private sponsors and foreign institutions
      <p>
      - bioimaging and algorithms:
      <p> 
-        - cell
+        - cell and tissue
      <p> 
-        - tissue
-     <p> 
-        - blood
-     <p> 
-        - brain
-     <p> 
-        - eye
-     <p> 
-        - heart
-     <p> 
-        - cervix
+        - blood, brain, eye, heart, cervix
       </td>
  </tr>
 </table>
