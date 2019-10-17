@@ -2,24 +2,27 @@
 
 
 Applied Math for Bioimaging
-<div style="float: right">
-<img src="cervicalCells.png" width="400">
-</div>
-
-
-
 <table border="0">
  <tr>
     <td><img src="cervicalCells.png" width="400"></td>
-    <td><b style="font-size:30px">
+    <td>
+     <b>
       - use-cases explored in partnerships between Berkeley Lab, UC Berkeley, private sponsors and foreign institutions
-      - bioimaging and algorithms:
+     <b>
+     - bioimaging and algorithms:
+     <b> 
         - cell
+     <b> 
         - tissue
+     <b> 
         - blood
+     <b> 
         - brain
+     <b> 
         - eye
+     <b> 
         - heart
+     <b> 
         - cervix
       </b></td>
  </tr>
