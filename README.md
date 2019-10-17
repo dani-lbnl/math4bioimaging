@@ -8,7 +8,7 @@ Applied Math for Bioimaging
     </td>
     <td>
      <p>
-      - use-cases [[HERE]](Math4Bioimaging2019compact.pdf) explored in partnerships between Berkeley Lab, UC Berkeley, private sponsors and foreign institutions
+      - use-cases <a href="Math4Bioimaging2019compact.pdf">[HERE]</a> explored in partnerships between Berkeley Lab, UC Berkeley, private sponsors and foreign institutions
      <p>
      - bioimaging and algorithms:
      <p> 
