@@ -18,3 +18,9 @@ Applied Math for Bioimaging
       </td>
  </tr>
 </table>
+
+##Acknowledgements:
+- UCSF - Memory and Aging Center
+- UCB - Optometry Dept
+- UFOP - Ambar
+- USP - FMRP
